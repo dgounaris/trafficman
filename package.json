@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^1.8.2",
     "boom": "^7.3.0",
     "http": "0.0.1-security",
     "koa": "^2.11.0",
